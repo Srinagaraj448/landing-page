@@ -46,7 +46,7 @@
 
 .banner {
     background-color: var(--secondary);
-    background-image: url(./Assets/back.3.jpg);
+    background-image: url(./assets/back.3.jpg);
     background-size: 55%;
     background-position: right;
     background-repeat: no-repeat;
