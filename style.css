@@ -37,6 +37,7 @@
     transition: color .3s;
     display: flex;
     font-family: initial;
+    font-size: 22px;
 }
 
 .head_second_div ul li:hover {
